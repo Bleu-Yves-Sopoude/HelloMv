@@ -70,7 +70,6 @@ You can deploy this project using:
 
 
 👤 Author
-
     GitHub: @Bleu-Yves-Sopoude
     
 
@@ -78,8 +77,6 @@ You can deploy this project using:
 
 (back to top)
 🔭 Future Features
-
-    
 
     one feature branch
     
