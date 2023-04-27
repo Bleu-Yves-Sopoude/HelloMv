@@ -23,4 +23,4 @@ TestResults.xml
 #ignore node_modules
 node_modules/
 
-.test.md/
+test.md/
