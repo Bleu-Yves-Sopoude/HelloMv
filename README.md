@@ -14,7 +14,7 @@
         Install
         git clone https://github.com/Bleu-Yves-Sopoude/HelloMv.git
     👥 Authors
-    git
+    
     🔭 Future Features
     🤝 Contributing
     ⭐️ Show your support
