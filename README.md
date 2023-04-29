@@ -99,13 +99,13 @@ You can deploy this project using:
 - [ ] **Add hero section**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-🤝 Contributing
+## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the issues page.
+Feel free to check the [issues page](../../issues/).
 
-(back to top)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 ⭐️ Show your support
 
     Write a message to encourage readers to support your project
