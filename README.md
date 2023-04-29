@@ -111,14 +111,11 @@ Feel free to check the [issues page](../../issues/).
 - If you like this project you can give me a star
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-🙏 Acknowledgments
-
-    
+# 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 I would like to thank microverse
 
-
-(back to top)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
