@@ -92,12 +92,13 @@ You can deploy this project using:
 
 
 (back to top)
-🔭 Future Features
+## 🔭 Future Features <a name="future-features"></a>
 
-    one feature branch
-    
+- [ ] **Add navbar**
+- [ ] **Add footer**
+- [ ] **Add hero section**
 
-
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
