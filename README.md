@@ -106,13 +106,11 @@ Contributions, issues, and feature requests are welcome!
 Feel free to check the [issues page](../../issues/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-⭐️ Show your support
+## ⭐️ Show your support <a name="support"></a>
 
-    Write a message to encourage readers to support your project
+- If you like this project you can give me a star
 
-If you like this project...
-
-(back to top)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 🙏 Acknowledgments
 
     
