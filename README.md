@@ -26,9 +26,27 @@
 
     Simple Hello Microverse project with many guidelines of real project submission for review
 
-[your_project__name] is a...
-🛠 Html css
-    github
+## 🛠 Built With <a name="built-with"></a>
+
+### Tech Stack <a name="tech-stack"></a>
+
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="https://www.w3schools.com/html/">HTML</a></li>
+    <li><a href="https://www.w3schools.com/css/">CSS</a></li>
+  </ul>
+</details>
+
+<!-- Features -->
+
+### Key Features <a name="key-features"></a>
+
+- **Add linters**
+- **Add heading**
+- **Add color to the heading**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
