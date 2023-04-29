@@ -22,9 +22,9 @@
     ❓ FAQ (OPTIONAL)
     📝 License
 
-📖 [Hello Microverse]
+# 📖 [Hello Microverse] <a name="about-project"></a>
 
-    Simple Hello Microverse project with many guideline of real project sub;ission for review
+    Simple Hello Microverse project with many guidelines of real project submission for review
 
 [your_project__name] is a...
 🛠 Html css
